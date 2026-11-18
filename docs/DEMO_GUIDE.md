@@ -56,7 +56,3 @@ make test
 ```
 
 Press Ctrl+C once. Explain that ProcGuard receives the signal, forwards it to the target process group, and waits for the child to terminate.
-
-## Presentation note
-
-Use screenshots from your own successful run. Do not claim test results that have not actually been run on the demonstration machine.
